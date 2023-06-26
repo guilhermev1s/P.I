@@ -1,0 +1,42 @@
+
+.car {
+  height: 20em;
+}
+.in {
+  background-color: darkblue;
+}
+.card-body {
+  background-color: gray;
+  font-family: 'Tangerine', cursive;
+}
+.figure-caption {
+color: white;
+font-family: 'Tangerine', cursive;
+}  
+.hora {
+  text-align: justify;
+}
+ .pa {
+  background-color: royalblue;  
+  text-align: justify;
+  font-family: 'Tangerine', cursive;
+ }
+ .pag {
+  background-color: #b3404a;
+  text-align: justify;
+  color: midnightblue;
+  font-family: 'Tangerine', cursive;
+ }
+ .pagin {
+background-color: darkred;
+text-align: justify;
+color: white;
+font-family: 'Tangerine', cursive;
+ }
+ .pagi {
+  background-color: olivedrab;
+  font-family: 'Tangerine', cursive;
+ }
+
+ @import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+ font-family: 'Tangerine', cursive;
